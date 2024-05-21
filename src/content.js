@@ -35,9 +35,10 @@ function replaceLink(a) {
 }
 
 function replaceWordmark(a) {
-  console.log(a);
   a.title = "Home";
-  waitForElement(".header__logoLink-wordmark:not([title='Home']").then(replaceWordmark);
+  waitForElement(".header__logoLink-wordmark:not([title='Home']").then(
+    replaceWordmark
+  );
 }
 
 waitForElement(".header__logoLink-iconOnly").then(replaceLink);
