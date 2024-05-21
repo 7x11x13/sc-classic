@@ -6,6 +6,6 @@ Browser extension that returns the SoundCloud logo back to its normal orange sel
 
 ## Installation
 
-[Firefox]()
+[Firefox](https://addons.mozilla.org/addon/soundcloud-classic/)
 
-[Chrome]()
+[Chrome](https://chromewebstore.google.com/detail/soundcloud-classic/cabifpjkbcplghgfgaiphfombednigdd)
